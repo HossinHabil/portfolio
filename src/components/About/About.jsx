@@ -41,7 +41,7 @@ const Project = () => (
           variants={fadeIn("right", "tween", 0.2, 1)}
           className={classes['about-p']}
         >
-          Front-End Developer with Almost 2 years of experience using some of
+          Mid Front-End Developer with 2 years of experience using some of
           the most powerful technologies like...
         </motion.p>
         <div className={classes['about-icons-container']}>
