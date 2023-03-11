@@ -1,0 +1,38 @@
+export const projects = [
+  {
+    title: "Netflix",
+    description: "Using Nextjs, Tailwindcss, Firebase & Stripe",
+    image: "/images/netflix.png",
+    tags: ["Next", "Tailwindcss", "Firebase", "Stripe"],
+    source: "https://github.com/HossinHabil/netflix",
+    visit: "https://netflix-hossinhabil.vercel.app/",
+    id: 0,
+  },
+  {
+    title: "Ecommerce",
+    description: "Using Nextjs, Sanity, Stripe",
+    image: "/images/ecommerce-store.png",
+    tags: ["Nextjs", "Sanity", "Stripe"],
+    source: "https://github.com/HossinHabil/ecommerce_sanity_stripe-",
+    visit: "https://ecommerce-sanity-stripe-hossinhabil.vercel.app/",
+    id: 1,
+  },
+  {
+    title: "Crud Todo App",
+    description: "Using React & Typescript",
+    image: "/images/crud-todo.png",
+    tags: ["React", "TypeScript"],
+    source: "https://github.com/HossinHabil/crud-react",
+    visit: "https://crud-react-typescript-hossinhabil.vercel.app/",
+    id: 2,
+  },
+  {
+    title: "Small Shopping Cart",
+    description: "Using React, React-Bootstrap",
+    image: "/images/shopping-cart.png",
+    tags: ["React", "React-Bootstrap", "Routing"],
+    source: "https://github.com/HossinHabil/shopping-cart",
+    visit: "https://small-shopping-cart-hossinhabil.vercel.app/",
+    id: 3,
+  },
+];
