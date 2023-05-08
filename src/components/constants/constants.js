@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Small Shopping Cart",
-    description: "Using React, React-Bootstrap",
-    image: "/images/shopping-cart.png",
-    tags: ["React", "React-Bootstrap", "Routing"],
-    source: "https://github.com/HossinHabil/shopping-cart",
-    visit: "https://small-shopping-cart-hossinhabil.vercel.app/",
+    title: "Photo Gallery",
+    description: "Using React, Tailwindcss",
+    image: "/images/photo-gallery.png",
+    tags: ["React", "Tailwindcss"],
+    source: "https://github.com/HossinHabil/photo-gallery",
+    visit: "https://photo-gallery-hossinhabil.vercel.app/",
     id: 3,
   },
 ];
